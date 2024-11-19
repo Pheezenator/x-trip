@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scratch Projekt</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        iframe {
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Scratch Projekt</h1>
+    <p>Podívejte se na tento Scratch projekt:</p>
+    <iframe src="https://scratch.mit.edu/projects/1098046558/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</body>
+</html>
